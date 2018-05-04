@@ -1,5 +1,3 @@
-![livable-cities](https://user-images.githubusercontent.com/26570786/39617371-5e7ddd86-4f77-11e8-9362-a94d6cb4a95a.JPG)
-
 # Visualising livable cities 
 
 There are a number of cities around the world becoming increasingly attractive for expats, so I have decided to see which would be the most attractive based on things I find important:
@@ -11,40 +9,23 @@ There are a number of cities around the world becoming increasingly attractive f
 
 It turns out Buenos Aires and Barcelona fit the bill best!
 
+![livable-cities](https://user-images.githubusercontent.com/26570786/39617371-5e7ddd86-4f77-11e8-9362-a94d6cb4a95a.JPG)
+
 ## The dataset
 
 `city`
 There's a few emerging tech hubs like Austin, Medellin, Prague and Beirut to mix it up with the big boys like SF, London, NYC, Singapour, Shanghai and Tel Aviv. It would be nice to grow the list a bit based on A.T. Kearney's 'potentials index'. (Bali has been included for it's popularity with expats even if it's not a city itself).
 
-| Full List      | 
-| -------------- | 
-| Austin         |
-| Bali	         |
-| Barcelona      |
-| Beirut         |
-| Berlin         |
-| Buenos Aires   |
-| Chicago        |
-| Copenhagen     |
-| Jerusalem      |
-| London         |
-| Medellin       |
-| Melbourne      |
-| New York       |
-| Oslo           |
-| Paris          |
-| Prague         |
-| San Diego      |
-| San Francisco  | 
-| Santiago       |
-| Shanghai       |
-| Singapour      |
-| Stockholm      |
-| Sydney         |
-| Tel Aviv       |
-| Tokyo          |
-| Toronto        |
-| Vancouver      |
+| Full List      | cont..         | cont..		   | cont..         |
+| -------------- | -------------- | -------------- | -------------- |
+| Austin         | Jerusalem      | San Diego      | Tokyo          |
+| Bali	         | London         | San Francisco  | Toronto        |
+| Barcelona      | Medellin       | Santiago       | Vancouver      |
+| Beirut         | Melbourne      | Shanghai       |                |
+| Berlin         | New York       | Singapour      |                |
+| Buenos Aires   | Oslo           | Stockholm      |                |
+| Chicago        | Paris          | Sydney         |                |
+| Copenhagen     | Prague         | Tel Aviv       |                |
 
 `cost_of_living_index` 
 A somewhat unscientific index by Expatistan, where each city is compared by % cost relative to Prague, so cost of living in New York City is 133% higher than in Prague.[ https://www.expatistan.com/cost-of-living/index ]. 
