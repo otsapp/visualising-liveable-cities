@@ -9,7 +9,7 @@ There are a number of cities around the world becoming increasingly attractive f
 
 It turns out Buenos Aires and Barcelona fit the bill best!
 
-![livable-cities](https://user-images.githubusercontent.com/26570786/39617371-5e7ddd86-4f77-11e8-9362-a94d6cb4a95a.JPG)
+![liveable-cities](https://user-images.githubusercontent.com/26570786/39625624-253f57f6-4f96-11e8-861e-f8c24e1e3e16.JPG)
 
 ## The dataset
 
