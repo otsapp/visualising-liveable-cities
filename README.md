@@ -1,4 +1,4 @@
-# Visualising livable cities 
+# Visualising liveable cities 
 
 There are a number of cities around the world becoming increasingly attractive for expats, so I have decided to see which would be the most attractive based on things I find important:
 
